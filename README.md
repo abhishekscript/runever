@@ -25,4 +25,14 @@ chmod 777 runever
 ```
 ./runever
 ```
-# You ned to compile once so step 1-3 need not to be repeated once done.
+# You need to compile once.
+You dont have to repeat step 1-3 once you have compiled .
+Simply 
+``` ./runever``` once compiled.
+
+# For WINDOWS
+
+You need to download G++ compiler first and then compile it.
+ ```
+ c:\mingw\bin> g++ runever.cpp -o runever
+
