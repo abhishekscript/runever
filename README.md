@@ -36,3 +36,5 @@ You need to download G++ compiler first and then compile it.
  ```
  c:\mingw\bin> g++ runever.cpp -o runever
 
+You may try this link
+http://sourceforge.net/projects/mingw/files/latest/download?source=files
