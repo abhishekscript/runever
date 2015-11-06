@@ -25,3 +25,4 @@ chmod 777 runever
 ```
 ./runever
 ```
+# You ned to compile once so step 1-3 need not to be repeated once done.
